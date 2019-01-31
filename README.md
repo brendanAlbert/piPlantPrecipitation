@@ -1,67 +1,52 @@
 # piPlantPrecipitation
-Statement of Purpose
+## Group: PiPlantPrecipitation P3
+
+### Members:
+Reegan Le
+Shivam Shah
+Maria Diaz
+Brendan Albert
+
+### Statement of Purpose
 For busy people who can’t water their plants, PiPlantPrecipitation APP to the rescue!
 
-
-Detailed Description
-First Prototype
--Needs to detect moisture level, and water the plant if moisture sensor detects that the soil is too dry
-
-Nice to have:
-- Gather temperature and humidity data
-- user should 
-
-
+### Detailed Description
 
 First Stage
-Hardware moisture sensor connected to Arduino or Raspberry Pi should activate water pump 
+Hardware moisture sensor connected to Arduino or Raspberry Pi should activate water pump
 
 Second Stage
+To be decided when we get there
 
 Third Stage
+To be decided when we get there
 
-USER SHOULD BE ABLE TO ENTER OPTIMUM DATA
-COMPARISON OF OPTIMAL VS SENSOR, ACCEPT OR REJECT
-
-Watering schedule super important, orchids should not be watered more than 2x/week for instance
-
-5 points of data to determine optimal data.
-
-Watering categories:
-Sunlight categories:
-
-Nice to have’s:
+Nice to haves if time permits:
+- Gather temperature and humidity data
 
 
-
-
-
-Equipment:
+### Equipment:
 -jumper wires
--raspberry pi
+-raspberry pi / arduino
 -breadboard
 -aquarium tubing
--water pump
+-water pump(s)
 
 
-List of sensors:
+### List of sensors:
 -Moisture sensor (prongy boi)
 -DHT11 (temperature & humidity)
+Nice to haves:
 -light intensity sensor
 
+### UI:
+- Cute pixel art
+-mint green, pink
 
-
-
-UI:
--Look cute AF
--mint green, pink, Kawaii
--pixel art
-
-
-Responsibilities:
+### Responsibilities:
 
 Mars
-Hardware
+Hardware (Raspberry Pi version)
 Methods to connect everything, read data
 
 Shiv
@@ -69,10 +54,19 @@ Hardware, mainly electrical help
 Database work
 
 Reeg
+Hardware (Arduino version)
 
 Brandy
-Web app
+Python code, C++ code, UI and Art assets
 
+
+
+### Brain Stormings:
+>User should be able to enter optimum data
+>Comparison of optimal vs sensor, accept or reject
+>Water schedule super important, for instance, orchids should not be watered more than 2x/week
+>5 points of data to determine optimal data
+>watering categories / sunlight categories
 
 
 
