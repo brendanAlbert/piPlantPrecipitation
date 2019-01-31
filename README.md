@@ -61,6 +61,7 @@ Reeg
 
 Brandy
 - Code
+- Help with Hardware (Arduino version)
 - UI and art assets
 
 
