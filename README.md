@@ -4,10 +4,10 @@
 >Reegan Le,
 Shivam Shah,
 Maria Diaz,
-Brendan Albert,
+Brendan Albert
 
 ### Statement of Purpose
->For busy people who can’t water their plants, PiPlantPrecipitation APP to the rescue!
+>For busy people who can’t water their plants, piPlantPrecipitation APP to the rescue!
 
 ### Detailed Description
 
@@ -34,9 +34,10 @@ Nice to haves if time permits:
 
 ### List of sensors:
 - Moisture sensor (prongy boi)
-- DHT11 (temperature & humidity)
+
 Nice to haves:
 - light intensity sensor
+- DHT11 (temperature & humidity)
 
 ### UI:
 - Cute pixel art
@@ -45,20 +46,22 @@ Nice to haves:
 ### Responsibilities:
 
 Mars
+- Code
 - Hardware (Raspberry Pi version)
 - Methods to connect everything, read data
 
 Shiv
+- Code
 - Hardware, mainly electrical help
 - Database work
 
 Reeg
+- Code
 - Hardware (Arduino version)
-- code
 
 Brandy
-- code
-- UI and Art assets
+- Code
+- UI and art assets
 
 
 
@@ -73,8 +76,8 @@ Brandy
 ### How to use Git and GitHub
 ##### Getting Started
 
-###### Step 1, create your directory for storing and working on our project
-`$ mkdir piPlantPrecipitation`
+###### Step 1, Make a new directory && make it your current directory, via terminal, to work on the project.
+`$ mkdir piPlantPrecipitation && cd piPlantPrecipitation`
 
 ###### Step 2, Clone this github repo
 `$ git clone https://github.com/brendanAlbert/piPlantPrecipitation.git`
@@ -94,11 +97,10 @@ Brandy
 - you can add individual files but for our purposes we just want to add everything that has been changed
 - so use the '.' to represent all files
 
-
 `$ git add .`
 
 ###### Commit added files
-`$ git commit -m 'Add a message here in these quotes about what changes were made.'`
+`$ git commit -m 'Add a short message here in these quotes about what changes were made.'`
 
-##### Push committed files up to GitHub
+###### Push committed files up to GitHub
 `$ git push`
